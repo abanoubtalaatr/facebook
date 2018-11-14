@@ -1,0 +1,1 @@
+<script type="text/javascript" src="http://localhost/facebook/js/signUp.js"></script>
